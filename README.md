@@ -46,7 +46,7 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashikant2121&show_icons=true&theme=tokyonight" alt="Shashikant GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i= github?username=Shashikant2121&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p>
