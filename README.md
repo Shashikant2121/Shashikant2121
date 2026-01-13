@@ -45,9 +45,10 @@
 
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shashikant2121&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashikant2121&show_icons=true&theme=tokyonight" alt="Shashikant GitHub Stats" />
 </p>
+
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashikant2121&theme=tokyonight" />
