@@ -46,10 +46,6 @@
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://skillicons.dev/icons?i= github?username=Shashikant2121&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashikant2121&theme=tokyonight" />
 </p>
 
