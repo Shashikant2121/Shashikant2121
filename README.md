@@ -43,37 +43,6 @@
 - Real-time weather data using APIs
 - Clean & responsive UI
 
-### ✅ Habit Tracker
-- *MERN-based productivity app*
-- Track daily habits & progress
-- Authentication & database integration
-
-### 👥 Social Media Application
-- Complete *MERN Stack project*
-- User authentication, posts & interactions
-- Backend APIs with MongoDB
-
-### 🎵 Music Streaming Application
-- MERN-based music platform
-- Play, manage & stream music
-- User accounts & backend handling
-
-### 💰 Expense Tracker
-- *MERN Stack finance app*
-- Track income & expenses
-- Dashboard with stored data
-
-### 📚 Library Management System
-- Full Stack *MERN Application*
-- Manage books, users & records
-- CRUD operations with MongoDB
-
-### 🛒 eCommerce Application
-- End-to-end *MERN Stack project*
-- Product listing, cart & orders
-- Backend APIs & database management
-
----
 
 ## 📊 GitHub Stats
 <p>
