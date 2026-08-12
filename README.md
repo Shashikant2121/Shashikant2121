@@ -51,17 +51,20 @@
 
 ---
 
-## 🌐 Connect With Me
-<p>
-  <a href="https://github.com/Shashikant2121">
+<h3 align="left">🌐 Connect With Me</h3>
+
+<p align="left">
+  <a href="https://github.com/Shashikant21" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="www.linkedin.com/in/shashi-kant-04279a25a">
+
+  <a href="https://www.linkedin.com/in/shashi-kant-04279a25a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
   <a href="https://leetcode.com/u/Shashikant21/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" />
-</a>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" />
+  </a>
 </p>
 
 ---
