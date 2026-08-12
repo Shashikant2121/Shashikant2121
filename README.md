@@ -59,6 +59,9 @@
   <a href="www.linkedin.com/in/shashi-kant-04279a25a">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://leetcode.com/u/Shashikant21/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
 </p>
 
 ---
