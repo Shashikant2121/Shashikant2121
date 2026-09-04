@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Web Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Real-World+Web+Applications;Open+to+Internship+%26+Fresher+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Real-World+Web+Applications;Open+to+Internship+%26+Fresher+Roles" />
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shashikant2121&label=Profile%20Views&color=0e75b6&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=Shashikant2121&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
 </div>
 
@@ -28,17 +28,19 @@
 
 ## 👨‍💻 About Me
 
-I'm a **BCA graduate and Full-Stack Web Developer** focused on building modern, responsive and user-friendly web applications using the **MERN stack**.
+I'm a **BCA graduate and Full-Stack Web Developer** passionate about building modern, responsive and user-friendly web applications.
 
-I enjoy working on both frontend and backend development — from creating responsive interfaces with React to developing REST APIs, authentication systems and database-driven applications with Node.js, Express.js and MongoDB.
+I primarily work with the **MERN Stack** and enjoy developing complete applications — from responsive React interfaces to REST APIs, authentication, databases and backend services.
 
-* 🚀 Building full-stack applications with the **MERN Stack**
-* ⚛️ Passionate about **React.js & modern frontend development**
-* ⚙️ Developing **RESTful APIs & backend services**
-* 🗄️ Working with **MongoDB & Mongoose**
-* 🧩 Interested in solving real-world development problems
-* 📚 Continuously learning new technologies
-* 🎯 Looking for **Internship / Fresher / Junior Developer opportunities**
+* 🚀 Full-Stack Web Developer
+* ⚛️ React.js enthusiast
+* 🟢 MERN Stack Developer
+* ⚙️ REST API Development
+* 🗄️ MongoDB & Mongoose
+* 🔐 Authentication & Authorization
+* 🤖 Interested in AI-powered applications
+* 🧠 Improving problem-solving & DSA skills
+* 🎯 Open to Internship & Fresher opportunities
 
 ---
 
@@ -50,7 +52,7 @@ I enjoy working on both frontend and backend development — from creating respo
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-**HTML5 · CSS3 · JavaScript (ES6+) · React.js · Tailwind CSS**
+**HTML5 · CSS3 · JavaScript · React.js · Tailwind CSS**
 
 ### ⚙️ Backend
 
@@ -58,7 +60,7 @@ I enjoy working on both frontend and backend development — from creating respo
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js · Express.js · REST APIs · Authentication**
+**Node.js · Express.js · REST APIs**
 
 ### 🗄️ Database
 
@@ -78,108 +80,92 @@ I enjoy working on both frontend and backend development — from creating respo
 
 ---
 
-## 🚀 What I Build
+# 🚀 Featured Projects
 
-```text
-Frontend Development
-        ↓
-Responsive UI & Components
-        ↓
-REST API Integration
-        ↓
-Backend Development
-        ↓
-Authentication & Authorization
-        ↓
-Database Design
-        ↓
-Deployment & Production
-```
+## 💼 JobTrack — Job Application Tracker
 
-I enjoy building applications where **frontend, backend and database work together as one complete product.**
+A full-stack web application designed to help users **manage and track their job applications** from one centralized dashboard.
 
----
-
-## 📌 Featured Projects
-
-### 🖼️ Image Background Remover
-
-A full-stack web application that allows users to upload images and remove their backgrounds through an easy-to-use interface.
-
-**Highlights**
-
-* 📤 Image upload functionality
-* 🖼️ Background removal workflow
-* ⚙️ Backend API integration
-* 📱 Responsive user interface
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `REST API`
-
----
-
-### 💼 JobTrack — Job Application Tracker
-
-A full-stack application designed to help users organize and track their job applications from a centralized dashboard.
-
-**Highlights**
+### ✨ Features
 
 * 🔐 User authentication
-* 📝 Add and manage job applications
-* 🔎 Search & filtering
+* 📝 Add, edit and delete job applications
+* 🔎 Search & filter applications
 * 📊 Application tracking
 * 🗂️ Organized job management
+* 📱 Responsive dashboard
 
-**Tech:** `React` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+### 🛠️ Tech Stack
 
----
-
-### 🤖 AI Counsellor
-
-An AI-powered platform designed to assist students with study-abroad planning and personalized guidance.
-
-**Highlights**
-
-* 👤 User profiles
-* 🔐 Authentication
-* 🤖 AI-powered assistance
-* 🎓 University-related information
-* 📋 Personalized tasks and workflows
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `AI APIs`
+`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
 
 ---
 
-### 📱 Social Media Platform
+## 💬 ChatApp — Real-Time Chat Application
 
-A MERN-based social media application focused on user profiles, content and social interactions.
+A modern full-stack chat application that enables users to communicate through **real-time messaging** with a responsive and user-friendly interface.
 
-**Tech:** `React` `Node.js` `Express.js` `MongoDB`
+### ✨ Features
 
----
+* 🔐 User authentication
+* 💬 Real-time messaging
+* 👤 User management
+* ⚡ Socket-based communication
+* 📱 Responsive chat interface
+* 🔔 Real-time message updates
 
-### ✅ Habit Tracker
+### 🛠️ Tech Stack
 
-A productivity-focused full-stack application that helps users create and monitor their daily habits.
-
-**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
-
----
-
-### 🌦️ Weather Application
-
-A responsive weather application that fetches real-time weather information through API integration.
-
-**Tech:** `React` `JavaScript` `Tailwind CSS` `REST API`
+`React.js` `Node.js` `Express.js` `MongoDB` `Socket.io` `Tailwind CSS`
 
 ---
 
-## 📊 GitHub Analytics
+## 🤖 DeepSeek AI — AI Chat Application
+
+An AI-powered chat application that provides users with an interactive conversational experience using the **DeepSeek AI API**.
+
+### ✨ Features
+
+* 🤖 AI-powered conversations
+* 💬 Interactive chat interface
+* ⚡ API integration
+* 🧠 AI-generated responses
+* 📱 Responsive UI
+* 🔄 Dynamic conversation experience
+
+### 🛠️ Tech Stack
+
+`React.js` `JavaScript` `Tailwind CSS` `DeepSeek API` `REST API`
+
+---
+
+## 📋 Task Tracker — Full-Stack Productivity App
+
+A full-stack task management application designed to help users **create, organize and track tasks efficiently**.
+
+### ✨ Features
+
+* ➕ Create tasks
+* ✏️ Update tasks
+* 🗑️ Delete tasks
+* ✅ Track task status
+* 🔐 User authentication
+* 📊 Task management dashboard
+* 📱 Responsive design
+
+### 🛠️ Tech Stack
+
+`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shashikant2121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shashikant2121&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikant2121&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashikant2121&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -187,15 +173,15 @@ A responsive weather application that fetches real-time weather information thro
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Shashikant2121&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Shashikant2121&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🧠 Problem Solving
+# 🧠 Problem Solving
 
-I regularly practice coding problems to improve my **problem-solving skills, logical thinking and Data Structures & Algorithms fundamentals.**
+I regularly practice coding problems to improve my **logical thinking, problem-solving ability and Data Structures & Algorithms fundamentals.**
 
 <div align="center">
 
@@ -207,49 +193,56 @@ I regularly practice coding problems to improve my **problem-solving skills, log
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-* ⚛️ Advanced React.js
-* 🏗️ Backend Architecture
-* 🔐 Authentication & Web Security
-* 🗄️ Database Design
-* ☁️ Cloud & AWS
-* 🧠 Data Structures & Algorithms
-* 🤖 AI Integration in Web Applications
-* 🚀 Production & Deployment
-
----
-
-## 🎯 Career Goals
-
-My goal is to become a strong **Full-Stack Software Developer** who can design, develop and maintain production-ready applications.
-
-### 2026 Focus
-
-* [x] Build MERN Stack Projects
-* [x] Develop REST APIs
-* [x] Work with MongoDB
-* [x] Build Responsive React Applications
-* [ ] Improve Advanced React Skills
-* [ ] Strengthen DSA
-* [ ] Learn Cloud & AWS
-* [ ] Build AI-powered applications
-* [ ] Contribute to Open Source
-* [ ] Start my professional software development career
+```text
+Advanced React.js
+       ↓
+Backend Architecture
+       ↓
+REST API Development
+       ↓
+Authentication & Security
+       ↓
+MongoDB & Database Design
+       ↓
+Cloud & AWS
+       ↓
+Data Structures & Algorithms
+       ↓
+AI Integration
+```
 
 ---
 
-## 💼 Open to Opportunities
+# 🎯 Career Goal
 
-I'm currently looking for opportunities as:
+My goal is to become a strong **Full-Stack Software Developer** capable of building scalable, secure and production-ready applications.
+
+### 🚀 My Focus
+
+* ⚛️ Master Advanced React
+* ⚙️ Improve Backend Architecture
+* 🧠 Strengthen DSA
+* ☁️ Learn Cloud & AWS
+* 🤖 Build AI-powered applications
+* 🔐 Learn production-level security
+* 🌍 Contribute to Open Source
+* 💼 Start my professional software development career
+
+---
+
+# 💼 Open to Opportunities
+
+I'm currently open to:
 
 **Frontend Developer · MERN Stack Developer · Full-Stack Developer · Junior Software Developer · Software Development Intern**
 
-I'm eager to work with a team where I can **learn, contribute, solve real-world problems and grow as a developer.**
+I'm looking for opportunities where I can **learn from experienced developers, contribute to real-world products and grow as a professional developer.**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -273,7 +266,7 @@ I'm eager to work with a team where I can **learn, contribute, solve real-world 
 
 <div align="center">
 
-### 💡 *"Learn. Build. Improve. Repeat."*
+### 💡 **"Learn. Build. Improve. Repeat."**
 
 <br/>
 
@@ -281,6 +274,6 @@ I'm eager to work with a team where I can **learn, contribute, solve real-world 
 
 <br/>
 
-**Thanks for visiting my GitHub profile! 🚀**
+### Thanks for visiting my profile! 🚀
 
 </div>
