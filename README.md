@@ -20,10 +20,6 @@
   <img src="https://img.shields.io/badge/🧠%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://shashikant-portfolio-zeta.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Shashikant2121&label=Profile%20Views&color=0e75b6&style=flat-square"/>
