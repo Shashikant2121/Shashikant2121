@@ -4,23 +4,27 @@
 
 ### 💻 Full-Stack Web Developer | MERN Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Real-World+Web+Applications;Open+to+Internship+%26+Fresher+Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Real-World+Web+Applications;Open+to+Internship+%26+Fresher+Roles" />
 
-<br/>
+<br><br>
 
 <a href="https://github.com/Shashikant2121">
-  <img src="https://img.shields.io/badge/🐙%20GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  🐙 <b>GitHub Profile</b>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/shashi-kant-04279a25a">
-  <img src="https://img.shields.io/badge/💼%20LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  💼 <b>LinkedIn Profile</b>
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Shashikant21/">
-  <img src="https://img.shields.io/badge/🧠%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  🧠 <b>LeetCode Profile</b>
 </a>
 
-<br/><br/>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Shashikant2121&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
