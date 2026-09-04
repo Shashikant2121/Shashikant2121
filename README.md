@@ -261,6 +261,11 @@ I'm looking for opportunities where I can **learn from experienced developers, c
 <a href="https://leetcode.com/u/Shashikant21/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50"/>
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://shashikantportfoliosp.netlify.app/">
+<img src="https://cdn.simpleicons.org/googlechrome/0E75B6" width="50"/>
+</a>
 
 </div>
 
